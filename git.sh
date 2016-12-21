@@ -1,4 +1,3 @@
 git add *
 git commit -m $1
-git push
-echo "antoinelanco"
+git push http://antoinelanco:datalife02@git.com/antoinelanco/Patator --all
